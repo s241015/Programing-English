@@ -89,5 +89,3 @@ speechSynthesis.speak(utterance);
  
 
 generateWordList(); 
-
- 
