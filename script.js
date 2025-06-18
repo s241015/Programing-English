@@ -1,5 +1,3 @@
-JS 
-
 const wordList = [ 
 
 { japanese: "関数型プログラミングがソフトウェア開発者の間で注目されている。", english: "Functional programming has been gaining popularity among software developers." }, 
